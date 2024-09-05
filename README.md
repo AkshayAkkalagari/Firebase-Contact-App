@@ -3,7 +3,7 @@
 
 
 In this project I have made a Contact App using Firebase which is a NoSQL database.
-I have used "Formik" for forms and "YUP" for forms validation.
+I have used "React-hook-form" for forms validation.
 
 In this App we can add, Update and Delete a contact which will also be reflected in the database.
 
